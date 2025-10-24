@@ -1,7 +1,7 @@
-## 👋 Hi there, I'm Zarif
-I am a recent graudate from Stony Brook University where I majored in both Computer Science and Applied Mathematics. I am an aspiring data scientist eager to leverage my data wrangling and analytical skills but I am also very much interested in SWE roles.
+# 👋 Hi there, I'm Zarif
+I recently graudated from Stony Brook University where I majored in both Computer Science and Applied Mathematics. I am an aspiring data scientist eager to leverage my data wrangling and analytical skills but I am also very much interested in SWE roles.
 
-# 🔧 Tech Stack:
+## 🔧 Tech Stack:
 Languages: Python, MATLAB, TypeScript, Java, R, SQL, C, HTML, CSS
 
 Libraries and Frameworks: 
@@ -11,13 +11,16 @@ Backend/Database: MongoDB, Spring Boot, Node.js
 Tools: Linux Terminal, Apache, Nginx, Mongo Compass, DOcker, VS Code
 
 
-- My Projects
+## My Projects:
+- Election Atlas
+- Kura Customs
+- 
 
-- 🔭 I’m currently working on ...
+## 🔭 I’m currently working on 
 
-- 📫 How to reach me: ...
+## 📫 How to reach me: ...
 
-- ⚡ Fun fact: ...
+## ⚡ Fun fact: ...
 
 <!--
 **Zarif-SBU/Zarif-SBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
