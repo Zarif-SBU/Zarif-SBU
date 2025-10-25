@@ -11,7 +11,7 @@ Backend/Database: MongoDB, Spring Boot, Node.js
 Tools: Linux Terminal, Apache, Nginx, Mongo Compass, DOcker, VS Code, Latex, WSL, Digital Ocean, Power Bi
 
 
-## :📔My Projects:
+## 📔My Projects:
 - Election Atlas: A web tool to Analyze gerrymending of Congressional District Plans in the US.
 - Kura Customs: E-Commerce business created by me and 2 other friends. You can find our site [here](https://www.kuracustoms.com)!
 - Cloud Play: Cloud Video Sharing SIte
