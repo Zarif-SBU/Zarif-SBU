@@ -32,8 +32,7 @@ In addition, I've written internal documentation to specify the data requirments
 You can reach me through my email zarifahnaf1@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/ahmedzarif/) !.
 
 ## ⚡ Fun fact:
-I love going to the gym! You can find my strength training program on [here](https://docs.google.com/spreadsheets/d/1HTtwe-_TaECKVSRgNuGg4TIgcE6C0xXnGQ4i_nehSic/edit?usp=sharing)! Realistically tho I am not following it 5 times a week as I used to.
-I also want to get into Calisthenics and Started basic calisthenics trianing.
+I love going to the gym! You can find my strength training program on [here](https://docs.google.com/spreadsheets/d/1HTtwe-_TaECKVSRgNuGg4TIgcE6C0xXnGQ4i_nehSic/edit?usp=sharing)! Realistically tho I am not following it 5 times a week as I used to. I also am starting calisthenics training.
 
 
 <!--
