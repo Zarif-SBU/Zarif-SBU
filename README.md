@@ -6,8 +6,11 @@ Languages: Python, MATLAB, TypeScript, Java, R, SQL, C, HTML, CSS
 
 Libraries and Frameworks: 
 Python: Numpy, Scipy, Pandas, GeoPandas, Matplotlib, Seaborn, Scikit-Learn, Pytorch
+
 Frontend: React.js, Next.js, Node.js, Shadcn, Tailwindcss, chart.js, Leaflet.js
+
 Backend/Database: MongoDB, Spring Boot, Node.js 
+
 Tools: Linux Terminal, Apache, Nginx, Mongo Compass, DOcker, VS Code, Latex, WSL, Digital Ocean, Power Bi
 
 
